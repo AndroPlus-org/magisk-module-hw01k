@@ -1,0 +1,21 @@
+# This file will be read by resetprop
+ro.config.hw_hotswap_on=true
+
+ro.config.hw_support_clone_app=true
+
+fw.max_users=5
+fw.show_multiuserui=1
+
+ro.config.hw_bt_pan_enable=true
+ro.config.hide_bt_tethering=false
+
+ro.config.hide_mirror_share=false
+ro.config.hw_multiscreen=true
+
+ro.config.hw_hideNetworkSpeed=false
+
+ro.config.hw_simplecover=true
+
+ro.camera.sound.forced=0
+
+ro.config.hide_network_mode=false
